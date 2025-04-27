@@ -98,15 +98,15 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hola a todos y Bienvenidos a mi lugar en la web!',
-        text: "Soy **Jhoann Amilcar Sulca**, un desarollador web, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Hola a todos y bienvenidos a mi lugar en la web!',
+        text: "Soy **Jhoann Amilcar Sulca**, un desarollador web, Dedicado a los ámbitos de la colaboración y la inteligencia artificial. Mi enfoque se basa en la intuición, la investigación justa y el uso de la estética como catalizador para productos excepcionales. Aprecio profundamente el software de vanguardia, el diseño visual y los principios del crecimiento impulsado por el producto.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/heroJhoann.jpg',
+            alt: 'Una persona tomandose una selfie'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Contáctame',
                 href: '/contact'
             }
         ]
