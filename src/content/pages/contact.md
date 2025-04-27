@@ -5,10 +5,10 @@ seo:
   description: ¡Contáctame por correo electrónico o redes sociales! Dime cómo puedo ayudarte.
 ---
 
-¡Gracias por contactarnos! Si tienes alguna pregunta, sugerencia o simplemente quieres compartir tu opinión, estoy a tu disposición. No dudes en contactarnos a través de cualquiera de los siguientes métodos:
+¡Gracias por contactame! Si tienes alguna pregunta, sugerencia o simplemente quieres compartir tu opinión, estoy a tu disposición. No dudes en contactarnos a través de cualquiera de los siguientes métodos:
 
 _Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+No dudes en enviarme un correo electrónico a [jhoannsulcaquispe@gmail.com](jhoannsulcaquispe@gmail.com) y haré todo lo posible para responderte lo antes posible.
 
 _Redes Sociales:_
-Sígueme también en redes sociales. Sígueme en [LinkedIn](https://www.linkedin.com/in/jhoannsulca/).
+Sígueme también en redes sociales. Sígueme en [LinkedIn](https://www.linkedin.com/in/jhoannsulca/) en [Facebook](https://www.facebook.com/Wadafa.shit/).
