@@ -99,7 +99,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hola a todos y bienvenidos a mi lugar en la web!',
-        text: "Soy **Jhoann Amilcar Sulca**, un desarollador web, Dedicado a los ámbitos de la colaboración y la inteligencia artificial. Mi enfoque se basa en la intuición, la investigación justa y el uso de la estética como catalizador para productos excepcionales. Aprecio profundamente el software de vanguardia, el diseño visual y los principios del crecimiento impulsado por el producto.",
+        text: "Soy **Jhoann Amilcar Sulca**, un desarollador web, Dedicado a los ámbitos de la colaboración y la inteligencia artificial. Aprecio profundamente el software de vanguardia, el diseño visual y los principios del crecimiento impulsado por el producto.",
         image: {
             src: '/heroJhoann.jpg',
             alt: 'Una persona tomandose una selfie'
