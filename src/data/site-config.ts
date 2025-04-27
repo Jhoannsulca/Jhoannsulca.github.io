@@ -49,11 +49,11 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Inicio',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: 'Proyectos',
             href: '/projects'
         },
         {
@@ -67,26 +67,26 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
-            text: 'About',
+            text: 'Acerda de mi',
             href: '/about'
         },
         {
-            text: 'Contact',
+            text: 'Contacto',
             href: '/contact'
         },
         {
-            text: 'Terms',
+            text: 'Términos',
             href: '/terms'
         },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+        // {
+        //     text: 'D',
+        //     href: 'https://github.com/JustGoodUI/dante-astro-theme'
+        // }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Facebook',
+            href: 'https://www.facebook.com/Wadafa.shit/'
         },
         {
             text: 'Instagram',
@@ -106,7 +106,7 @@ const siteConfig: SiteConfig = {
         },
         actions: [
             {
-                text: 'Contáctame',
+                text: 'Contacto',
                 href: '/contact'
             }
         ]

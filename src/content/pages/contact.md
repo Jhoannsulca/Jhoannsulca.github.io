@@ -1,7 +1,7 @@
 ---
-title: Contáctame
+title: Contacto
 seo:
-  title: Contame
+  title: Contacto
   description: ¡Contáctame por correo electrónico o redes sociales! Dime cómo puedo ayudarte.
 ---
 
