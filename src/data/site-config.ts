@@ -67,7 +67,7 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
-            text: 'Acerda de mi',
+            text: 'Acerda de',
             href: '/about'
         },
         {
@@ -102,7 +102,8 @@ const siteConfig: SiteConfig = {
         text: "Soy **Jhoann Amilcar Sulca**, un desarollador web, Dedicado a los ámbitos de la colaboración y la inteligencia artificial. Aprecio profundamente el software de vanguardia, el diseño visual y los principios del crecimiento impulsado por el producto.",
         image: {
             src: '/heroJhoann.jpg',
-            alt: 'Una persona tomandose una selfie'
+            alt: 'Una persona tomandose una selfie',
+            caption: 'I´m Jhoann Dev'
         },
         actions: [
             {
