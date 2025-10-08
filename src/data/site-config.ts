@@ -40,7 +40,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://Jhoannsulca.github.io',
-    title: 'Jhoann Amilcar Sulca',
+    title: 'Alonso Marck Sulca',
     subtitle: 'Este es mi blog personal',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
@@ -103,7 +103,11 @@ const siteConfig: SiteConfig = {
         image: {
             src: '/heroJhoann.jpg',
             alt: 'Una persona tomandose una selfie',
+<<<<<<< HEAD
             caption: 'I´m Jhoann Dev'
+=======
+            caption: 'Soy Alonsito, Seré un gran futbolista e Ingenierio Robotico'
+>>>>>>> 33de976919874b8c469f54a089e5760820f8a8c4
         },
         actions: [
             {
