@@ -103,11 +103,7 @@ const siteConfig: SiteConfig = {
         image: {
             src: '/heroJhoann.jpg',
             alt: 'Una persona tomandose una selfie',
-<<<<<<< HEAD
             caption: 'I´m Jhoann Dev'
-=======
-            caption: 'Soy Alonsito, Seré un gran futbolista e Ingenierio Robotico'
->>>>>>> 33de976919874b8c469f54a089e5760820f8a8c4
         },
         actions: [
             {
