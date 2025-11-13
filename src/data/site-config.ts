@@ -40,7 +40,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://Jhoannsulca.github.io',
-    title: 'Alonso Marck Sulca',
+    title: 'Jhoann Amilcar Sulca Quispe',
     subtitle: 'Este es mi blog personal',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
